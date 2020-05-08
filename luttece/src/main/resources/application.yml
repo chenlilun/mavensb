@@ -1,0 +1,15 @@
+server:
+  port: 8080
+spring:
+  redis:
+    port: 6379
+    password: 1234
+    host: 192.168.0.108
+    lettuce:
+      pool:
+        max-active: 8
+        max-idle: 6
+        min-idle: 2
+        max-wait: 2000
+      shutdown-timeout: 2000
+
