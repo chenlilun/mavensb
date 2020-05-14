@@ -3,5 +3,7 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/boot-jedis" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/luttece" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/mavenhibernate" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/spring-data-jpa" charset="UTF-8" />
   </component>
 </project>
