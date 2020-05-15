@@ -14,7 +14,7 @@
         <module>springjap</module>
     </modules>
     <properties>
-        <vertx.version>3.4.2</vertx.version>
+        <vertx.version>3.9.0</vertx.version>
         <main.class>com.hengyi.study.Main</main.class>
     </properties>
     <repositories>
